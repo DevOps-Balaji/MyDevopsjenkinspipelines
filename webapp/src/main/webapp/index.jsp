@@ -6,21 +6,37 @@
 <body>
 
 <div class="w3-container">
-  <h2>Good morning</h2>
+
   <p>Sprint planning 1st Release with below features:</p>
   <div class="w3-card-4" style="width:25%;">
     <header class="w3-container w3-green">
       <h1>Sprint 1 : Login </h1>
+ </div>
 
+ <div>
  <p>Sprint planning 2nd Release with below features:</p>
   <div class="w3-card-4" style="width:25%;">
-    <header class="w3-container w3-green">
+    <header class="w3-container w3-blue">
       <h1>Sprint 2 : Login  +     Funds transfer  </h1>
 
     </header>
       </div>
 
     
+
+<div>
+ <p>Sprint planning 2nd Release with below features:</p>
+  <div class="w3-card-4" style="width:25%;">
+    <header class="w3-container w3-Oranange">
+      <h1>Sprint 3 : Login  +     Funds transfer  + Manage beneficiary  </h1>
+
+    </header>
+      </div>
+
+
+
+
+
   </div>
 
 
