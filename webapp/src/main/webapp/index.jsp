@@ -11,6 +11,12 @@
   <div class="w3-card-4" style="width:25%;">
     <header class="w3-container w3-green">
       <h1>Sprint 1 : Login </h1>
+
+ <p>Sprint planning 2nd Release with below features:</p>
+  <div class="w3-card-4" style="width:25%;">
+    <header class="w3-container w3-green">
+      <h1>Sprint 2 : Login  +     Funds transfer  </h1>
+
     </header>
       </div>
 
