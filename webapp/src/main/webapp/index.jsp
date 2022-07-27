@@ -1,68 +1,10 @@
-<!DOCTYPE html>
+
 <html>
-<title>W3.CSS</title>
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
-<body>
+		<body>
 
-<div class="w3-container">
+			<h2>Wissen Engineering Team </h2>
 
-  <p>Sprint planning 1st Release with below features:</p>
-  <div class="w3-card-4" style="width:25%;">
-    <header class="w3-container w3-orange">
-      <h1>Sprint 1 : Login </h1>
- </div>
+		<img src="https://i.pinimg.com/originals/ff/f3/a8/fff3a85c688196ef2790f6a7c5cdb6c8.gif" name="Wissen" width="1000" height="1000">
 
- <div>
- <p>Sprint planning 2nd Release with below features:</p>
-  <div class="w3-card-4" style="width:25%;">
-    <header class="w3-container w3-green">
-      <h1>Sprint 2 : Login  +     Funds transfer  </h1>
-
-    </header>
-      </div>
-
-    
-
-<div>
- <p>Sprint planning 2nd Release with below features:</p>
-  <div class="w3-card-4" style="width:25%;">
-    <header class="w3-container w3-yellow">
-      <h1>Sprint 3 : Login  +     Funds transfer  + Manage beneficiary  </h1>
-
-    </header>
-      </div>
-
-<div>
- <p>Sprint planning 2nd Release with below features:</p>
-  <div class="w3-card-4" style="width:25%;">
-    <header class="w3-container w3-yellow">
-      <h1>Sprint 4  : Login  +     Funds transfer  + Manage beneficiary     + New modules are incorported </h1>
-
-    </header>
-      </div>
-
-<div>
- <p>Sprint planning 2nd Release with below features:</p>
-<div class="w3-card-4" style="width:25%;">
- <header class="w3-container w3-violet">
- 
-
-    </header>
-      </div>
-
-<div>
- <p>Sprint planning 2nd Release with below features:</p>
-<div class="w3-card-4" style="width:25%;">
- <header class="w3-container w3-violet">
-
-
-    </header>
-      </div>
-
-
-  </div>
-
-
-</body>
+		</body>
 </html>
